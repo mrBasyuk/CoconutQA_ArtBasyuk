@@ -1,1 +1,1 @@
-"def test_smoke(): assert 1 == 1" 
+"def test_smoke(): assert 3 == 3 print('done')" 
